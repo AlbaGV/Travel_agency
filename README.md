@@ -6,3 +6,4 @@ Una vez dentro se puede listar, insertar, modificar y eliminar, productos (en é
 
 Cuando se cierra la sesión, se dirige a la página principal de un usuario normal.
 
+<img src="https://raw.githubusercontent.com/BelenGutierrez/Travel_agency/master/capturas/login.png">
